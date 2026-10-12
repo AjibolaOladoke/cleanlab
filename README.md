@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the cleanlab notes, exa
 
 ## Images
 
-[![cleanlab](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![cleanlab](images/preview.png)](https://github.com/Swift-Tech-Co/cleanlab)
 
 ## Run cleanlab open-source
 
@@ -24,8 +24,7 @@ This cleanlab package runs on Python 3.10+ and supports Linux, macOS, as well as
 Most folks jump from Step 1 → 4, but you may achieve big gains without *any* change to your modeling code by using cleanlab!
 Continuously boost performance by iterating Steps 2 → 4 (and try to evaluate with *cleaned* data).
 
-[![](https://raw.githubusercontent.com/cleanlab/assets/master/cleanlab/flowchart.png)](https://www.swifttechco.com)
-
+[![](https://raw.githubusercontent.com/cleanlab/assets/master/cleanlab/flowchart.png)](https://github.com/Swift-Tech-Co/cleanlab)
 
 ## Use cleanlab with any model and in most ML tasks
 
@@ -45,7 +44,6 @@ cleanlab is useful across a wide variety of Machine Learning tasks. Specific tas
 For other ML tasks, cleanlab can still help you improve your dataset if appropriately applied.
 See our Example Notebooks and Blog.
 
-
 ## So fresh, so cleanlab
 
 Beyond automatically catching all sorts of issues lurking in your data, this data-centric AI package helps you deal with **noisy labels** and train more **robust ML models**.
@@ -53,14 +51,11 @@ Here's an example:
 
 ```python
 
-
-
-
 ## Citation and related publications
 
 cleanlab is based on peer-reviewed research. Here are relevant papers to cite if you use this package:
 
-<details><summary><a href="https://www.swifttechco.com">Confident Learning (JAIR '21)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab">Confident Learning (JAIR '21)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Confident Learning: Estimating Uncertainty in Dataset Labels},
         author={Curtis G. Northcutt and Lu Jiang and Isaac L. Chuang},
@@ -72,7 +67,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com">Rank Pruning (UAI '17)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab">Rank Pruning (UAI '17)</a> (<b>click to show bibtex</b>) </summary>
 
         author={Northcutt, Curtis G. and Wu, Tailin and Chuang, Isaac L.},
         title={Learning with Confident Examples: Rank Pruning for Robust Classification with Noisy Labels},
@@ -81,13 +76,13 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
         year = {2017},
         location = {Sydney, Australia},
         numpages = {10},
-        url = {https://www.swifttechco.com
+        url = {https://github.com/Swift-Tech-Co/cleanlab
         publisher = {AUAI Press},
     }
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Label Quality Scoring (ICML '22)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Label Quality Scoring (ICML '22)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Model-agnostic label quality scoring to detect real-world label errors},
         author={Kuan, Johnson and Mueller, Jonas},
@@ -97,7 +92,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Label Errors in Token Classification / Entity Recognition (NeurIPS '22)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Label Errors in Token Classification / Entity Recognition (NeurIPS '22)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Detecting label errors in token classification data},
         author={Wang, Wei-Chen and Mueller, Jonas},
@@ -107,7 +102,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Label Errors in Multi-Label Classification (ICLR '23)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Label Errors in Multi-Label Classification (ICLR '23)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Identifying Incorrect Annotations in Multi-Label Classification Data},
         author={Thyagarajan, Aditya and Snorrason, Elías and Northcutt, Curtis and Mueller, Jonas},
@@ -117,7 +112,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Label Errors in Object Detection (ICML '23)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Label Errors in Object Detection (ICML '23)</a> (<b>click to show bibtex</b>) </summary>
 
         title={ObjectLab: Automated Diagnosis of Mislabeled Images in Object Detection Data},
         author={Tkachenko, Ulyana and Thyagarajan, Aditya and Mueller, Jonas},
@@ -127,7 +122,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Label Errors in Image Segmentation (ICML '23)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Label Errors in Image Segmentation (ICML '23)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Estimating label quality and errors in semantic segmentation data via any model},
         author={Lad, Vedang and Mueller, Jonas},
@@ -137,7 +132,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Detecting Errors in Numerical Data (DMLR '24)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Detecting Errors in Numerical Data (DMLR '24)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Detecting Errors in a Numerical Response via any Regression Model},
         author={Zhou, Hang and Mueller, Jonas and Kumar, Mayank and Wang, Jane-Ling and Lei, Jing},
@@ -147,7 +142,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Out-of-Distribution Detection (ICML '22)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Out-of-Distribution Detection (ICML '22)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Back to the Basics: Revisiting Out-of-Distribution Detection Baselines},
         author={Kuan, Johnson and Mueller, Jonas},
@@ -157,7 +152,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> CROWDLAB for Data with Multiple Annotators (NeurIPS '22)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> CROWDLAB for Data with Multiple Annotators (NeurIPS '22)</a> (<b>click to show bibtex</b>) </summary>
 
         title={CROWDLAB: Supervised learning to infer consensus labels and quality scores for data with multiple annotators},
         author={Goh, Hui Wen and Tkachenko, Ulyana and Mueller, Jonas},
@@ -167,7 +162,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> ActiveLab: Active learning with data re-labeling (ICLR '23)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> ActiveLab: Active learning with data re-labeling (ICLR '23)</a> (<b>click to show bibtex</b>) </summary>
 
         title={ActiveLab: Active Learning with Re-Labeling by Multiple Annotators},
         author={Goh, Hui Wen and Mueller, Jonas},
@@ -177,7 +172,7 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 
 </details>
 
-<details><summary><a href="https://www.swifttechco.com"> Detecting Dataset Drift and Non-IID Sampling (ICML '23)</a> (<b>click to show bibtex</b>) </summary>
+<details><summary><a href="https://github.com/Swift-Tech-Co/cleanlab"> Detecting Dataset Drift and Non-IID Sampling (ICML '23)</a> (<b>click to show bibtex</b>) </summary>
 
         title={Detecting Dataset Drift and Non-IID Sampling via k-Nearest Neighbors},
         author={Cummings, Jesse and Snorrason, Elías and Mueller, Jonas},
@@ -188,7 +183,6 @@ cleanlab is based on peer-reviewed research. Here are relevant papers to cite if
 </details>
 
 To understand/cite other cleanlab functionality not described above, check out our Blog.
-
 
 ## Other resources
 
@@ -222,13 +216,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/cleanlab
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
